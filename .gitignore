@@ -72,5 +72,6 @@ crashlytics-build.properties
 
 # Custom
 .vscode/
-/[Aa]ssets/Plugins/GitHub
+/[Aa]ssets/Plugins/
+/[Aa]ssets/Plugins.meta
 
